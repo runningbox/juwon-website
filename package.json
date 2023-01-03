@@ -1,0 +1,8 @@
+{
+  "name": "juwon-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/runningbox/juwon-website.git",
+  "author": "obricks <obricks21@gmail.com>",
+  "license": "MIT"
+}
